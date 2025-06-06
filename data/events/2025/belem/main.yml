@@ -168,6 +168,11 @@ sponsors:
     level: support
   - id: kubeevents
     level: support
+  - id: agenda-ti
+    level: support
+  - id: sucesu
+    level: support
+  - id: cesupa
 
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
