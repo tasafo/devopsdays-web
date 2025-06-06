@@ -174,8 +174,8 @@ Description = "DevOpsDays Belém 2025"
 
   <div class="highlight-box">
     <strong style="font-size: 1.2em;display: block">Programação</strong>
-    <a href="https://devopsdays.org/events/2025-belem/programa/" target="_blank">
-      Submeta sua palestra
+        <a href="https://devopsdays.org/events/2025-belem/programa" target="_blank">
+      Confira a programação aqui!  
     </a>
   </div>
 
